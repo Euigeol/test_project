@@ -1,0 +1,8 @@
+prefix=/home/euigeol/test_ws/devel
+
+Name: testpkg
+Description: Description of testpkg
+Version: 0.0.0
+Cflags: -I/home/euigeol/test_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
